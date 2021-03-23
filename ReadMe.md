@@ -5,7 +5,7 @@
 
 - 🌱 I’m Currently Learning **Crypto and BlockChain 🔐**
 
-- 👯 I’m Looking to Collaborate on [Any Projects 😅](https://1nj3ct0rrr.github.com/)
+- 👯 I’m Looking to Collaborate on **Any Projects 😅**
 
 - 🤝 I’m Looking for Help with [Nothing ❗](https://linkedin.com/in/1nj3ct0r)
 
