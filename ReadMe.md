@@ -7,7 +7,7 @@
 
 - 👯 I’m Looking to Collaborate on **Any Projects 😅**
 
-- 🤝 I’m Looking for Help with [Nothing ❗](https://linkedin.com/in/1nj3ct0r)
+- 🤝 I’m Looking for Help in **Nothing ❗**
 
 - 👨‍💻 All of My Projects are Available at [https://1nj3ct0rrr.github.com/](https://1nj3ct0rrr.github.com/)
 
