@@ -49,3 +49,5 @@ class Me:
 me = Me()
 me.sayHi()
 ```
+
+## Technologies and Tools 🛠️
