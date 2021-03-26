@@ -51,3 +51,5 @@ me.sayHi()
 ```
 
 ## Technologies and Tools 🛠️
+
+## GitHub Stats 📊
