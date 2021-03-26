@@ -61,3 +61,5 @@ me.sayHi()
 ## GitHub Trophies 🏆
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=1nj3ct0rrr&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Highlight Projects 🗂️
