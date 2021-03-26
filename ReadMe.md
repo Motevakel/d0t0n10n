@@ -57,3 +57,7 @@ me.sayHi()
 <a href="https://github.com/1nj3ct0rrr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nj3ct0rrr&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="1nj3ct0r's GitHub Stats" />
 </a>
+
+## GitHub Trophies 🏆
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=1nj3ct0rrr&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
