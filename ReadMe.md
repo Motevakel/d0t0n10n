@@ -55,5 +55,5 @@ me.sayHi()
 ## GitHub Stats 📊
 
 <a href="https://github.com/1nj3ct0rrr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=1nj3ct0rrr&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="1nj3ct0r GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1nj3ct0rrr&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="1nj3ct0r's GitHub Stats" />
 </a>
