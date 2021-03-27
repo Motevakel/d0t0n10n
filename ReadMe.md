@@ -54,7 +54,7 @@ me.sayHi()
 
 ### Programming Languages 🔤
 
-![C](https://img.shields.io/badge/C-gray?style=flat&logo=C&labelColor=blue)
+![C](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
