@@ -54,6 +54,7 @@ me.sayHi()
 
 ![C](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=C++&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
