@@ -58,6 +58,7 @@ me.sayHi()
 ![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
