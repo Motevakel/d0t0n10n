@@ -53,6 +53,7 @@ me.sayHi()
 ## Technologies and Tools 🛠️
 
 ![C](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=C++&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
