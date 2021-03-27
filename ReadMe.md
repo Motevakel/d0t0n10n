@@ -52,6 +52,8 @@ me.sayHi()
 
 ## Technologies and Tools 🛠️
 
+### Programming Languages 🔤
+
 
 
 ## Top Languages 🔤
