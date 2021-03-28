@@ -63,7 +63,7 @@ me.sayHi()
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Swift](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
 ![R](https://img.shields.io/badge/Language-R-informational?style=flat&logo=r&logoColor=white&color=6aa6f8)
-![Vue.JS](https://img.shields.io/badge/Language-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=6aa6f8)
+![Vue.JS](https://img.shields.io/badge/FrontEnd-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=6aa6f8)
 ![React](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![AngularJS](https://img.shields.io/badge/Language-Angular.JS-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
 
