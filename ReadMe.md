@@ -62,6 +62,7 @@ me.sayHi()
 ![Ruby](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Swift](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
+![R](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
