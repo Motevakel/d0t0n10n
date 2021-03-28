@@ -65,7 +65,7 @@ me.sayHi()
 ![R](https://img.shields.io/badge/Language-R-informational?style=flat&logo=r&logoColor=white&color=6aa6f8)
 ![Vue.JS](https://img.shields.io/badge/FrontEnd-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=6aa6f8)
 ![React](https://img.shields.io/badge/FrontEnd-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![AngularJS](https://img.shields.io/badge/Language-Angular.JS-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
+![AngularJS](https://img.shields.io/badge/FrontEnd-Angular.JS-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
