@@ -72,6 +72,7 @@ me.sayHi()
 ![Sass](https://img.shields.io/badge/FrontEnd-Sass-informational?style=flat&logo=sass&logoColor=white&color=6aa6f8)
 ![Redux](https://img.shields.io/badge/FrontEnd-Redux-informational?style=flat&logo=redux&logoColor=white&color=6aa6f8)
 ![QT](https://img.shields.io/badge/FrontEnd-QT-informational?style=flat&logo=qt&logoColor=white&color=6aa6f8)
+![Node.JS](https://img.shields.io/badge/FrontEnd-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
