@@ -70,6 +70,7 @@ me.sayHi()
 ![CSS](https://img.shields.io/badge/FrontEnd-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 ![HTML](https://img.shields.io/badge/FrontEnd-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![Sass](https://img.shields.io/badge/FrontEnd-Sass-informational?style=flat&logo=sass&logoColor=white&color=6aa6f8)
+![Redux](https://img.shields.io/badge/FrontEnd-Redux-informational?style=flat&logo=redux&logoColor=white&color=6aa6f8)
 
 ## Top Languages 🔤
 
