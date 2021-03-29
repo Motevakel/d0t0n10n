@@ -101,5 +101,6 @@ me.sayHi()
 
 ## Other Places 🔃
 
-[![Gmail](https://img.shields.io/badge/Gmail-E34133?style=flat&logo=gmail&logoColor=white)](mailto:mhesam.tavakoli@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0073B1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/1nj3ct0r)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mhesam.tavakoli@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/1nj3ct0r)
+[![Dev.To](
