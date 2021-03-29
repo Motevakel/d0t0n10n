@@ -103,4 +103,5 @@ me.sayHi()
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mhesam.tavakoli@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/1nj3ct0r)
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat&logo=product-hunt&logoColor=white)](https://www.producthunt.com/@1nj3ct0r)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat&logo=product-hunt&logoColor=white)](https://producthunt.com/@1nj3ct0r)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://1nj3ct0r.slack.com)
