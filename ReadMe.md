@@ -101,4 +101,4 @@ me.sayHi()
 
 ## Other Places 🔃
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhesam.tavakoli@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhesam.tavakoli@gmail.com)
