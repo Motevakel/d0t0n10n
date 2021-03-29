@@ -98,3 +98,5 @@ me.sayHi()
 <a href="https://github.com/1nj3ct0rrr/Camino">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1nj3ct0rrr&repo=Camino&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Camino" />
 </a>
+
+## Other Places 🔃
