@@ -100,3 +100,5 @@ me.sayHi()
 </a>
 
 ## Other Places 🔃
+
+[![Gmail](https://img.shields.io/badge/Gmail-25D366?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhesam.tavakoli@gmail.com)
