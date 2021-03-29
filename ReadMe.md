@@ -51,28 +51,8 @@ me.sayHi()
 
 ## Technologies and Tools 🛠️
 
-![C](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![PHP](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
-![Ruby](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
-![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Swift](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
-![R](https://img.shields.io/badge/Language-R-informational?style=flat&logo=r&logoColor=white&color=6aa6f8)
-![Vue.JS](https://img.shields.io/badge/FrontEnd-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=6aa6f8)
-![React](https://img.shields.io/badge/FrontEnd-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![AngularJS](https://img.shields.io/badge/FrontEnd-Angular.JS-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
-![Bootstrap](https://img.shields.io/badge/FrontEnd-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
-![CSS](https://img.shields.io/badge/FrontEnd-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![HTML](https://img.shields.io/badge/FrontEnd-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![Sass](https://img.shields.io/badge/FrontEnd-Sass-informational?style=flat&logo=sass&logoColor=white&color=6aa6f8)
-![Redux](https://img.shields.io/badge/FrontEnd-Redux-informational?style=flat&logo=redux&logoColor=white&color=6aa6f8)
-![QT](https://img.shields.io/badge/FrontEnd-QT-informational?style=flat&logo=qt&logoColor=white&color=6aa6f8)
-![Node.JS](https://img.shields.io/badge/BackEnd-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
-![Spring](https://img.shields.io/badge/BackEnd-Spring-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+
 
 ## Top Languages 🔤
 
