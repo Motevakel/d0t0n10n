@@ -77,6 +77,14 @@ me.sayHi()
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
+### Back End ⬅️
+
+![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Graph QL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+
 ## Top Languages 🔤
 
 <a href="https://github.com/1nj3ct0rrr">
