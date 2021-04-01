@@ -109,6 +109,10 @@ me.sayHi()
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+### Data Visualization 📊
+
+![Chart.JS](https://img.shields.io/badge/Chart.JS-DD6384?style=flat&logo=chart.js&logoColor=white)
+
 ## Top Languages 🔤
 
 <a href="https://github.com/1nj3ct0rrr">
