@@ -65,6 +65,10 @@ me.sayHi()
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
+## Front End ➡️
+
+![Vue.JS](https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
 ## Top Languages 🔤
 
 <a href="https://github.com/1nj3ct0rrr">
