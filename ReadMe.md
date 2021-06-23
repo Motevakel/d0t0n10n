@@ -1,4 +1,4 @@
-# Hello There 👋
+# Hello There 
 
 ![License](https://img.shields.io/github/license/d0t0n10n/d0t0n10n.svg)
 ![Follow](https://img.shields.io/github/followers/d0t0n10n.svg?style=social&label=Follow&maxAge=2592000)
@@ -49,9 +49,9 @@ me = Me()
 me.sayHi()
 ```
 
-## Technologies and Tools 🛠️
+## Technologies and Tools 
 
-### Programming Languages 🔤
+### Programming Languages 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -65,7 +65,7 @@ me.sayHi()
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### Front End ➡️
+### Front End 
 
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -77,7 +77,7 @@ me.sayHi()
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
-### Back End ⬅️
+### Back End 
 
 ![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -85,7 +85,7 @@ me.sayHi()
 ![Graph QL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
-### Mobile App 📱
+### Mobile App 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -93,13 +93,13 @@ me.sayHi()
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
 
-### AI/ML 🧠
+### AI/ML 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Open CV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### Database 🍀
+### Database 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -109,19 +109,19 @@ me.sayHi()
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### Deveops 👨‍💻
+### Deveops
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2498ED?style=flat&logo=docker&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### BaaS 🔙
+### BaaS 
 
 ![FireBase](https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
-### FrameWorks ⚙️
+### FrameWorks 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
@@ -129,36 +129,36 @@ me.sayHi()
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### Testing ✔️
+### Testing 
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
-### Software 🖥️
+### Software 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Game Engines 🎮
+### Game Engines 
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![UnReal](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unreal-engine&logoColor=white)
 
-### Other 🔄
+### Other 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-## Top Languages 🔤
+## Top Languages 
 
 <a href="https://github.com/1nj3ct0rrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0t0n10n&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="1nj3ct0r's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0t0n10n&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt=".Onion's GitHub Stats" />
 </a>
 
-## GitHub Trophies 🏆
+## GitHub Trophies 
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=d0t0n10n&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Highlight Projects 🗂️
+## Highlight Projects 
 
 <a href="https://github.com/d0t0n10n/d0t0n10n.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=d0t0n10n.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Personal" />
@@ -168,7 +168,7 @@ me.sayHi()
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=musics&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AI generated musics" />
 </a>
 
-## Other Places 🔃
+## Other Places 
 
   <a href="mailto:mhesam.tavakoli@gmail.com">
     <img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white" />
