@@ -161,15 +161,15 @@ me.sayHi()
 ## Highlight Projects 🗂️
 
 <a href="https://github.com/d0t0n10n/d0t0n10n.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1nj3ct0rrr&repo=1nj3ct0rrr.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Personal" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=d0t0n10n.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Personal" />
 </a>
 
 <a href="https://github.com/d0t0n10n/helloworlds">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1nj3ct0rrr&repo=helloworlds&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Hello World" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=helloworlds&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Hello World" />
 </a>
 
 <a href="https://github.com/d0t0n10n/musics">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1nj3ct0rrr&repo=musics&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AI generated musics" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=musics&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AI generated musics" />
 </a>
 
 ## Other Places 🔃
