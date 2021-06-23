@@ -151,24 +151,24 @@ me.sayHi()
 ## Top Languages 🔤
 
 <a href="https://github.com/1nj3ct0rrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nj3ct0rrr&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="1nj3ct0r's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0t0n10n&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="1nj3ct0r's GitHub Stats" />
 </a>
 
 ## GitHub Trophies 🏆
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=1nj3ct0rrr&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=d0t0n10n&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Highlight Projects 🗂️
 
-<a href="https://github.com/1nj3ct0rrr/1nj3ct0rrr.github.io">
+<a href="https://github.com/d0t0n10n/d0t0n10n.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1nj3ct0rrr&repo=1nj3ct0rrr.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Personal" />
 </a>
 
-<a href="https://github.com/1nj3ct0rrr/helloworlds">
+<a href="https://github.com/d0t0n10n/helloworlds">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1nj3ct0rrr&repo=helloworlds&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Hello World" />
 </a>
 
-<a href="https://github.com/1nj3ct0rrr/musics">
+<a href="https://github.com/d0t0n10n/musics">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1nj3ct0rrr&repo=musics&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AI generated musics" />
 </a>
 
