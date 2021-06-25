@@ -9,12 +9,12 @@
 
 class Me:
     def __init__(self):
-        self.nick_name = "1nj3ct0r"
+        self.nick_name = "DotOnion"
         self.name = "Hesam Tavakoli"
         self.role = "Scriptwriter, Hacker and Geek"
         self.location = "Tehran, Tehran, Islamic Republic of Iran"
         
-        self.website = "https://1nj3ct0rrr.github.io/"
+        self.website = "https://d0t0n10n.github.io/"
         
         self.knowledge_base = [
             "AI",
