@@ -10,9 +10,9 @@
 class Me:
     def __init__(self):
         self.nick_name = "DotOnion"
-        self.name = "Hesam Tavakoli"
-        self.role = "Scriptwriter, Hacker and Geek"
-        self.location = "Tehran, Tehran, Islamic Republic of Iran"
+        self.name = ".Onion"
+        self.role = "Scriptwriter + Hacker + Geek"
+        self.location = "Mars"
         
         self.website = "https://d0t0n10n.github.io/"
         
@@ -29,12 +29,12 @@ class Me:
             "And ..."
         ]
         
-        self.knowledge_base.insert(0, "Full Stack Developer")
+        self.knowledge_base.insert(0, "Geek")
         
     def sayHi(self):
         print(
             """Hello my friend, thanks for dropping by!
-            This is {nick_name} (My real name is {name}), I live in {location}. I work as a {role}.
+            This is {nick_name}, I live in {location}. I am a {role}.
             I have wide interests, but most of them are {knowledge_base}.
             You can find out more about me on my personal website: {website}""".format(
                 name = self.name,
