@@ -18,6 +18,7 @@ class Me:
         
         self.website = "https://d0t0n10n.github.io/"
         
+
         self.knowledge_base = [
             "AI",
             "Crypto",
@@ -26,7 +27,7 @@ class Me:
             "Web Apps",
             "Security",
             "Data Science",
-            "Computer Engireeng",
+            "Computer Engineering",
             "Mobile Programming",
             "And ..."
         ]
