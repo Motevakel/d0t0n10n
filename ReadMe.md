@@ -6,9 +6,6 @@
 ![Follow](https://img.shields.io/github/followers/d0t0n10n.svg?style=social&label=Follow&maxAge=2592000)
 
 ```python
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-
 class Me:
     def __init__(self):
         self.nick_name = "DotOnion"
