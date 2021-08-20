@@ -8,47 +8,26 @@
 ![Follow](https://img.shields.io/github/followers/d0t0n10n.svg?style=social&label=Follow&maxAge=2592000)
 
 ```python
-class Me:
+class DotOnion:
     def __init__(self):
-        self.nick_name = "DotOnion"
-        self.name = ".Onion"
-        self.role = "Scriptwriter + Hacker + Geek"
-        self.location = "Mars"
+        self.name = "Hesam Tavakoli",
+        self.username = "dotonion" or "d0t0n10n",
+        self.website = "https://d0t0n10n.github.io/",
         
-        self.website = "https://d0t0n10n.github.io/"
+        self.code = {
+            "DB": ["Mongo-DB", "PostgreSQL", "MySQL", "Redis", "SQLite", "CAssandra"],
+            "DeveOps": ["Docker", "GitHub Actions", "AWS", "Heroku", "Nginx", "Git", "Selenium"],
+            "Back": ["JS", "Python", "PHP", "Flask", "Django", "Laravel", "Node-JS", "Rust", Go", "C/C++"],
+            "Front": ["HTML", "CSS", "JS", "TS", "React-JS", "Bootstrap", "J-Query", "PHP", "Vue", "Angular"],
+            "Misc": ["FireBase", "GNU/Linux",
+            "Tools": ["Git", "GitHub", "GitLab", "Pandas", "Jupyter", "AutoHotKey", "Sublime", "VS-Code", "VIM", "GNU/Linux", "FireBase"]
+        }
         
-
-        self.knowledge_base = [
-            "AI",
-            "Crypto",
-            "Database",
-            "Web Site",
-            "Web Apps",
-            "Security",
-            "Data Science",
-            "Computer Engineering",
-            "Mobile Programming",
-            "And ..."
-        ]
+    def __str__(self):
+        return self.name
         
-        self.knowledge_base.insert(0, "Geek")
-        
-    def sayHi(self):
-        print(
-            """Hello my friend, thanks for dropping by!
-            This is {nick_name}, I live in {location}. I am a {role}.
-            I have wide interests, but most of them are {knowledge_base}.
-            You can find out more about me on my personal website: {website}""".format(
-                name = self.name,
-                location = self.location,
-                role = self.role,
-                knowledge_base = ", ".join(self.knowledge_base[1:]),
-                website = self.website
-            )
-        )
-
-me = Me()
-me.sayHi()
+if __name__ == "__main__":
+    me = DotOnion()
 ```
 
 ## Technologies and Tools 
