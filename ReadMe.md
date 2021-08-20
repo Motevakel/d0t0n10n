@@ -90,6 +90,10 @@ if __name__ == "__main__":
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
+<h2> Stats </h2>
+
+<h2> Pinned Repos </h2>
+
 <h2> Contact Me! </h2>
 <p>
     <a href="mailto:d0t0n10n@pm.me">
