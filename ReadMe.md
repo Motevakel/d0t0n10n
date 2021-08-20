@@ -66,3 +66,6 @@ if __name__ == "__main__":
         <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
     </a>
 </p>
+<p align=center>
+    <img src="https://media.giphy.com/media/RpDh3gH9AMsaAoF1An/giphy.gif" />
+</p>
