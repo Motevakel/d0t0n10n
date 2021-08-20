@@ -1,4 +1,6 @@
 <h1 align=center>
+    <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" />
+    <br />
     Hello There!
 </h1>
 
