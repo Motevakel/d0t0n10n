@@ -19,7 +19,6 @@ class DotOnion:
             "DeveOps": ["Docker", "GitHub Actions", "AWS", "Heroku", "Nginx", "Git", "Selenium"],
             "Back": ["JS", "Python", "PHP", "Flask", "Django", "Laravel", "Node-JS", "Rust", "Go", "C/C++"],
             "Front": ["HTML", "CSS", "JS", "TS", "React-JS", "Bootstrap", "J-Query", "PHP", "Vue", "Angular"],
-            "Misc": ["FireBase", "GNU/Linux",
             "Tools": ["Git", "GitHub", "GitLab", "Pandas", "Jupyter", "AutoHotKey", "Sublime", "VS-Code", "VIM", "GNU/Linux", "FireBase"]
         }
         
