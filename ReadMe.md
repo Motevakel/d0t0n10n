@@ -92,7 +92,13 @@ if __name__ == "__main__":
 
 <h2> Stats </h2>
 
-
+### Time!
+```
+Morning:    27 commits    ██░░░░░░░░░░░░░░░░░░░░░░░    9.15%
+Daytime:    21 commits    █░░░░░░░░░░░░░░░░░░░░░░░░    7.11%
+Evening:    179 commits   ███████████████░░░░░░░░░░    60.67%
+Night:      68 commits    ██████░░░░░░░░░░░░░░░░░░░    23.05%
+```
 
 <h2> Pinned Repos </h2>
 
