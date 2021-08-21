@@ -111,6 +111,17 @@ Saturday:     44 commits    ███░░░░░░░░░░░░░░�
 Sunday:       25 commits    ██░░░░░░░░░░░░░░░░░░░░░░░    8.47%
 ```
 
+### Quick Stats
+```
+Time Zone: Iran/Tehran, GMT +04:30
+
+Programming Languages:
+    - C/C++:         5 Hr 34 Mins    48.05%    ████████████░░░░░░░░░░░░░
+    - JavaScript:    4 Hr 12 Mins    26.67%    ██████░░░░░░░░░░░░░░░░░░░
+    - Python:        2 Hr 8 Mins     19.45%    ████░░░░░░░░░░░░░░░░░░░░░
+    - Other:         30 Mins         5.83%     █░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
 <h2> Pinned Repos </h2>
 
 [![HelloWorlds](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=HelloWorlds&theme=radical)](https://github.com/d0t0n10n/HelloWorlds)
