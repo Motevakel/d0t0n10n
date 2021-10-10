@@ -1,7 +1,7 @@
 <h1 align=center>
     <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" />
     <br />
-    Hello There!
+    Hello There
     <br />
     <img src="https://img.shields.io/github/followers/d0t0n10n.svg?style=social&label=Follow&maxAge=2592000" />
 </h1>
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     me = DotOnion()
 ```
 
-<h2> What do I use? </h2>
+<h2> What do I use </h2>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -127,7 +127,7 @@ Programming Languages:
 [![Musics](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=Musics&theme=radical)](https://github.com/d0t0n10n/Musics)
 [![d0t0n10n.github.io](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=d0t0n10n.github.io&theme=radical)](https://github.com/d0t0n10n/d0t0n10n.github.io)
 
-<h2> Contact Me! </h2>
+<h2> Contact Me </h2>
 <p>
     <a href="mailto:d0t0n10n@pm.me">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" />
