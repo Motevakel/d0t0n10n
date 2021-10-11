@@ -28,13 +28,6 @@
         <img src="https://img.shields.io/github/forks/d0t0n10n/d0t0n10n.svg?style=social&label=Fork&maxAge=2592000" />
     </a>
     <br />
-    <a href="https://www.markdownguide.org/">
-        <img src="https://img.shields.io/badge/MarkDown-000000?style=flat&logo=markdown&logoColor=white" />
-    </a>
-    <a href="https://open.vscode.dev/d0t0n10n/d0t0n10n">
-        <img src="https://open.vscode.dev/badges/open-in-vscode.svg" />
-    </a>
-    <br />
     <a href="https://github.com/d0t0n10n/d0t0n10n">
         <img src="https://img.shields.io/github/repo-size/d0t0n10n/d0t0n10n" />
     </a>
@@ -43,6 +36,13 @@
     </a>
     <a href="https://github.com/d0t0n10n/d0t0n10n">
         <img src="https://tokei.rs/b1/github/d0t0n10n/d0t0n10n?category=lines" />
+    </a>
+    <br />
+    <a href="https://www.markdownguide.org/">
+        <img src="https://img.shields.io/badge/MarkDown-000000?style=flat&logo=markdown&logoColor=white" />
+    </a>
+    <a href="https://open.vscode.dev/d0t0n10n/d0t0n10n">
+        <img src="https://open.vscode.dev/badges/open-in-vscode.svg" />
     </a>
 </h1>
 
