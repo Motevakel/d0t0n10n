@@ -28,8 +28,8 @@
         <img src="https://img.shields.io/github/forks/d0t0n10n/d0t0n10n.svg?style=social&label=Fork&maxAge=2592000" />
     </a>
     <br />
-    <a href="https://python.org">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <a href="https://www.markdownguide.org/">
+        <img src="https://img.shields.io/badge/MarkDown-000000?style=flat&logo=markdown&logoColor=white" />
     </a>
     <a href="https://open.vscode.dev/d0t0n10n/d0t0n10n">
         <img src="https://open.vscode.dev/badges/open-in-vscode.svg" />
