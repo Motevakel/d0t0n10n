@@ -3,7 +3,7 @@
     <br />
     Hello There
     <br />
-    <a href="https://github.com/d0t0n10n/insight-eyes">
+    <a href="https://github.com/d0t0n10n/d0t0n10n">
         <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" />
     </a>
     <br />
@@ -11,38 +11,38 @@
         <img src="https://img.shields.io/github/last-commit/d0t0n10n/d0t0n10n.svg" />
     </a>
     <br />
-    <a href="https://github.com/Naereen?tab=followers">
+    <a href="https://github.com/d0t0n10n?tab=followers">
         <img src="https://img.shields.io/github/followers/d0t0n10n.svg?style=social&label=Follow&maxAge=2592000" />
     </a>
-    <a href="https://github.com/d0t0n10n/insight-eyes/blob/master/License">
-        <img src="https://img.shields.io/github/license/d0t0n10n/insight-eyes.svg" />
+    <a href="https://github.com/d0t0n10n/d0t0n10n/blob/master/License">
+        <img src="https://img.shields.io/github/license/d0t0n10n/d0t0n10n.svg" />
     </a>
     <br />
-    <a href="https://GitHub.com/d0t0n10n/insight-eyes/watchers/">
-        <img src="https://img.shields.io/github/watchers/d0t0n10n/insight-eyes.svg?style=social&label=Watch&maxAge=2592000" />
+    <a href="https://GitHub.com/d0t0n10n/d0t0n10n/watchers/">
+        <img src="https://img.shields.io/github/watchers/d0t0n10n/d0t0n10n.svg?style=social&label=Watch&maxAge=2592000" />
     </a>
-    <a href="https://GitHub.com/d0t0n10n/insight-eyes/stargazers/">
-        <img src="https://img.shields.io/github/stars/d0t0n10n/insight-eyes.svg?style=social&label=Star&maxAge=2592000" />
+    <a href="https://GitHub.com/d0t0n10n/d0t0n10n/stargazers/">
+        <img src="https://img.shields.io/github/stars/d0t0n10n/d0t0n10n.svg?style=social&label=Star&maxAge=2592000" />
     </a>
-    <a href="https://GitHub.com/d0t0n10n/insight-eyes/network/">
-        <img src="https://img.shields.io/github/forks/d0t0n10n/insight-eyes.svg?style=social&label=Fork&maxAge=2592000" />
+    <a href="https://GitHub.com/d0t0n10n/d0t0n10n/network/">
+        <img src="https://img.shields.io/github/forks/d0t0n10n/d0t0n10n.svg?style=social&label=Fork&maxAge=2592000" />
     </a>
     <br />
     <a href="https://python.org">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     </a>
-    <a href="https://open.vscode.dev/d0t0n10n/insight-eyes">
+    <a href="https://open.vscode.dev/d0t0n10n/d0t0n10n">
         <img src="https://open.vscode.dev/badges/open-in-vscode.svg" />
     </a>
     <br />
-    <a href="https://github.com/d0t0n10n/insight-eyes">
-        <img src="https://img.shields.io/github/repo-size/d0t0n10n/insight-eyes" />
+    <a href="https://github.com/d0t0n10n/d0t0n10n">
+        <img src="https://img.shields.io/github/repo-size/d0t0n10n/d0t0n10n" />
     </a>
-    <a href="https://github.com/d0t0n10n/insight-eyes">
-        <img src="https://tokei.rs/b1/github/d0t0n10n/insight-eyes?category=files" />
+    <a href="https://github.com/d0t0n10n/d0t0n10n">
+        <img src="https://tokei.rs/b1/github/d0t0n10n/d0t0n10n?category=files" />
     </a>
-    <a href="https://github.com/d0t0n10n/insight-eyes">
-        <img src="https://tokei.rs/b1/github/d0t0n10n/insight-eyes?category=lines" />
+    <a href="https://github.com/d0t0n10n/d0t0n10n">
+        <img src="https://tokei.rs/b1/github/d0t0n10n/d0t0n10n?category=lines" />
     </a>
 </h1>
 
