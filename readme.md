@@ -14,7 +14,7 @@
     <a href="https://github.com/d0t0n10n?tab=followers">
         <img src="https://img.shields.io/github/followers/d0t0n10n.svg?style=social&label=Follow&maxAge=2592000" />
     </a>
-    <a href="https://github.com/d0t0n10n/d0t0n10n/blob/master/License">
+    <a href="https://github.com/d0t0n10n/d0t0n10n/blob/master/license">
         <img src="https://img.shields.io/github/license/d0t0n10n/d0t0n10n.svg" />
     </a>
     <br />
