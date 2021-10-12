@@ -163,9 +163,7 @@ Programming Languages:
 
 <h2> Pinned Repos </h2>
 
-[![HelloWorlds](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=HelloWorlds&theme=radical)](https://github.com/d0t0n10n/HelloWorlds)
-[![Musics](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=Musics&theme=radical)](https://github.com/d0t0n10n/Musics)
-[![d0t0n10n.github.io](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=d0t0n10n.github.io&theme=radical)](https://github.com/d0t0n10n/d0t0n10n.github.io)
+[![Insight Eyes](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=insight-eyes&theme=radical)](https://github.com/d0t0n10n/insight-eyes)
 
 <h2> Contact Me </h2>
 <p>
