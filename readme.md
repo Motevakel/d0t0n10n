@@ -158,8 +158,7 @@ if __name__ == "__main__":
         - Other:         30 Mins         5.83%     █░░░░░░░░░░░░░░░░░░░░░░░░
     ```
 
-<h2> Pinned Repos </h2>
-
+## Pinned Repos
 [![Insight Eyes](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=insight-eyes&theme=radical)](https://github.com/d0t0n10n/insight-eyes)
 
 <h2> Contact Me </h2>
