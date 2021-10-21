@@ -48,25 +48,26 @@
 
 Here is some information about me:
 ```python
-class DotOnion:
+class dotOnion:
     def __init__(self):
         self.name = "Hesam Tavakoli",
-        self.username = "dotonion" or "d0t0n10n",
-        self.website = "https://d0t0n10n.github.io/",
+        self.username = "dotonion",
+        self.website = "https://d0t0n10n.github.io",
         
         self.code = {
-            "DB": ["Mongo-DB", "PostgreSQL", "MySQL", "Redis", "SQLite", "CAssandra"],
+            "DB": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQLite", "Cassandra"],
             "DeveOps": ["Docker", "GitHub Actions", "AWS", "Heroku", "Nginx", "Git", "Selenium"],
-            "Back": ["JS", "Python", "PHP", "Flask", "Django", "Laravel", "Node-JS", "Rust", "Go", "C/C++"],
-            "Front": ["HTML", "CSS", "JS", "TS", "React-JS", "Bootstrap", "J-Query", "PHP", "Vue", "Angular"],
-            "Tools": ["Git", "GitHub", "GitLab", "Pandas", "Jupyter", "AutoHotKey", "Sublime", "VS-Code", "VIM", "GNU/Linux", "FireBase"]
+            "Back-End": ["JavaScript", "Python", "PHP", "Flask", "Django", "Laravel", "Node.js", "Rust", "Go", "C & C++"],
+            "Front-End": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Bootstrap", "jQuery", "PHP", "Vue.js", "Angular"],
+            "Tools": ["Git", "GitHub", "GitLab", "Pandas", "Jupyter", "AutoHotKey", "Sublime", "VS Code", "VIM", "GNU/Linux", "Firebase"]
         }
         
     def __str__(self):
         return self.name
         
 if __name__ == "__main__":
-    me = DotOnion()
+    me = dotOnion()
+
 ```
 
 <h2> What do I use </h2>
