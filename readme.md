@@ -161,39 +161,5 @@ if __name__ == "__main__":
 ## Pinned Repos
 [![Insight Eyes](https://github-readme-stats.vercel.app/api/pin/?username=d0t0n10n&repo=insight-eyes&theme=radical)](https://github.com/d0t0n10n/insight-eyes)
 
-<h2> Contact Me </h2>
-<p>
-    <a href="mailto:d0t0n10n@pm.me">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" />
-    </a>
-    <a href="https://hashnode.com/@dotonion">
-        <img src="https://img.shields.io/badge/HashNode-2962FF?style=flat&logo=hashnode&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@dotonion">
-        <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
-    </a>
-    <a href="https://www.pinterest.com/d0t0n10n/">
-        <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white" />
-    </a>
-    <a href="https://soundcloud.com/d0t0n10n">
-        <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white" />
-    </a>
-    <a href="https://codepen.io/dotonion">
-        <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white" />
-    </a>
-    <a href="https://github.com/d0t0n10n">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-    </a>
-    <a href="https://stackoverflow.com/users/16473175/dotonion?tab=profile">
-        <img src="https://img.shields.io/badge/StackOverFlow-F58025?style=flat&logo=stackoverflow&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/dotonion/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
-    </a>
-    <a href="https://www.hackerrank.com/dotonion?hr_r=1">
-        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" />
-    </a>
-    <a href="https://codeforces.com/profile/1nj3ct0r">
-        <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
-    </a>
-</p>
+## Contact Me
+[![Mail](https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white)]()
