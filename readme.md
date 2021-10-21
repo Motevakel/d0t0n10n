@@ -55,8 +55,8 @@ class dotOnion:
         self.website = "https://d0t0n10n.github.io",
         
         self.code = {
-            "DB": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQLite", "Cassandra"],
-            "DeveOps": ["Docker", "GitHub Actions", "AWS", "Heroku", "Nginx", "Git", "Selenium"],
+            "DB": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQLite", "Cassandra", "NoSQL"],
+            "DeveOps": ["Docker", "GitHub Actions", "AWS", "Heroku", "Nginx", "Git", "Selenium", "Machine Learning"],
             "Back-End": ["JavaScript", "Python", "PHP", "Flask", "Django", "Laravel", "Node.js", "Rust", "Go", "C & C++"],
             "Front-End": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Bootstrap", "jQuery", "PHP", "Vue.js", "Angular"],
             "Tools": ["Git", "GitHub", "GitLab", "Pandas", "Jupyter", "AutoHotKey", "Sublime", "VS Code", "VIM", "GNU/Linux", "Firebase"]
