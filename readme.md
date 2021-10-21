@@ -129,37 +129,34 @@ if __name__ == "__main__":
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-<h2> Stats </h2>
+## Stats
+  - ### Time
+    ```
+    Morning:    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░    9.15%
+    Daytime:    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░    7.11%
+    Evening:    179 commits    ███████████████░░░░░░░░░░    60.67%
+    Night:      68 commits     ██████░░░░░░░░░░░░░░░░░░░    23.05%
+    ```
+  - ### Days
+    ```
+    Monday:       46 commits    ███░░░░░░░░░░░░░░░░░░░░░░    15.59%
+    Tuesday:      48 commits    ████░░░░░░░░░░░░░░░░░░░░░    16.27%
+    Wednesday:    41 commits    ███░░░░░░░░░░░░░░░░░░░░░░    12.89%
+    Thursday:     52 commits    ████░░░░░░░░░░░░░░░░░░░░░    17.62%
+    Friday:       39 commits    ███░░░░░░░░░░░░░░░░░░░░░░    13.22%
+    Saturday:     44 commits    ███░░░░░░░░░░░░░░░░░░░░░░    14.91%
+    Sunday:       25 commits    ██░░░░░░░░░░░░░░░░░░░░░░░    8.47%
+    ```
+  - ### Quick Stats
+    ```
+    Time Zone: Iran/Tehran, GMT +04:30
 
-### Time
-```
-Morning:    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░    9.15%
-Daytime:    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░    7.11%
-Evening:    179 commits    ███████████████░░░░░░░░░░    60.67%
-Night:      68 commits     ██████░░░░░░░░░░░░░░░░░░░    23.05%
-```
-
-### Days
-```
-Monday:       46 commits    ███░░░░░░░░░░░░░░░░░░░░░░    15.59%
-Tuesday:      48 commits    ████░░░░░░░░░░░░░░░░░░░░░    16.27%
-Wednesday:    41 commits    ███░░░░░░░░░░░░░░░░░░░░░░    12.89%
-Thursday:     52 commits    ████░░░░░░░░░░░░░░░░░░░░░    17.62%
-Friday:       39 commits    ███░░░░░░░░░░░░░░░░░░░░░░    13.22%
-Saturday:     44 commits    ███░░░░░░░░░░░░░░░░░░░░░░    14.91%
-Sunday:       25 commits    ██░░░░░░░░░░░░░░░░░░░░░░░    8.47%
-```
-
-### Quick Stats
-```
-Time Zone: Iran/Tehran, GMT +04:30
-
-Programming Languages:
-    - C/C++:         5 Hr 34 Mins    48.05%    ████████████░░░░░░░░░░░░░
-    - JavaScript:    4 Hr 12 Mins    26.67%    ██████░░░░░░░░░░░░░░░░░░░
-    - Python:        2 Hr 8 Mins     19.45%    ████░░░░░░░░░░░░░░░░░░░░░
-    - Other:         30 Mins         5.83%     █░░░░░░░░░░░░░░░░░░░░░░░░
-```
+    Programming Languages:
+        - C/C++:         5 Hr 34 Mins    48.05%    ████████████░░░░░░░░░░░░░
+        - JavaScript:    4 Hr 12 Mins    26.67%    ██████░░░░░░░░░░░░░░░░░░░
+        - Python:        2 Hr 8 Mins     19.45%    ████░░░░░░░░░░░░░░░░░░░░░
+        - Other:         30 Mins         5.83%     █░░░░░░░░░░░░░░░░░░░░░░░░
+    ```
 
 <h2> Pinned Repos </h2>
 
